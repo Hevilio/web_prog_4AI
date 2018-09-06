@@ -1,0 +1,46 @@
+body{
+	background-color:#dee5ed;
+	font-family:'Handlee', cursive;
+}
+
+#head{
+	margin-top:50px;
+	text-align:center;
+	margin-bottom:50px;
+}
+
+.fic h3{
+	text-transform:uppercase;
+}
+.fic span{
+	font-size:10px;
+}
+.fic{
+	margin-top:50px;
+	margin-bottom:10px;
+	padding-left:10px;
+	border-left: solid 1px black;
+}
+
+.fic p em{
+	font-size:20px;
+}
+
+#vuepost{
+	border-top: solid #6f9ccf 1px;
+	padding-top: 50px;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #6f9ccf;
+}
+
+label{
+	text-align:center;
+}
+
+#vueshow #number{
+	color:#6f9ccf;
+}
